@@ -14,9 +14,6 @@
 /log/*.log
 /tmp
 
-Capfile
-/config/deploy.rb
-
 # Git best practices
 *.rbc
 *.sassc
